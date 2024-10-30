@@ -1,0 +1,1 @@
+ /home/nimame/MVVM/testMvvm/mvvm/.dart_tool/flutter_build/fd4c8ed83535f92b88e98bfb7e26c299/native_assets.yaml: 
